@@ -32,7 +32,7 @@
   top: 30px;
 }
 
-.header__tittle {
+.header__title {
   width: 730px;
   font-size: 102px;
   font-weight: bold;
@@ -292,7 +292,7 @@
   justify-content: space-between;
 }
 
-.footer__columns_content_copyrigth {
+.footer__column_content_copyright {
   flex-basis: 711px;
   display: flex;
   flex-direction: column;
