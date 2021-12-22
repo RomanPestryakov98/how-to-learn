@@ -5,6 +5,6 @@
   flex-direction: column;
 }
 
-.cards__item:nth-child(3) {
+.cards__item:nth-child(3n) {
   margin-right: 0;
 }
